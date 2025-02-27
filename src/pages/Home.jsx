@@ -54,4 +54,4 @@ function Home({ theme }) {
   );
 }
 
-export default Home;
+export default Home; 
